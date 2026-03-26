@@ -79,7 +79,7 @@ The framework integrates:
 oil-gas-anomaly-detection-gnn/
 
 ├── dataset/
-│   └── production_data.csv
+│   └── Volve production_data.xlsx
 
 ├── Graph_Anomaly_Detection.ipynb
 │   # Main Jupyter notebook containing data processing,
