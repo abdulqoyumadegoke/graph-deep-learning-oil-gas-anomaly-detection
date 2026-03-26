@@ -66,7 +66,7 @@ The model integrates:
 ```
 oil-gas-anomaly-detection-gnn/
 │
-├── data/                 # Dataset (optional or excluded if large)
+├── data/                 # Dataset 
 ├── notebooks/            # Jupyter notebooks for experiments
 ├── src/                  # Core implementation
 │   ├── data_processing.py
