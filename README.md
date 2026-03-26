@@ -81,7 +81,7 @@ oil-gas-anomaly-detection-gnn/
 ├── dataset/
 │   └── Volve production_data.xlsx
 
-├── Graph_Anomaly_Detection.ipynb
+├── oil and gas theft.ipynb
 │   # Main Jupyter notebook containing data processing,
 │   # graph construction, model training, and evaluation
 
@@ -115,7 +115,7 @@ jupyter notebook
 Open:
 
 ```
-Graph_Anomaly_Detection.ipynb
+oil and gas theft.ipynb
 ```
 
 The notebook contains the full pipeline including data preprocessing, graph construction, model training, and anomaly detection evaluation.
