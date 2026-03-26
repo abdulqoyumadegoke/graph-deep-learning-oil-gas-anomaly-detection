@@ -142,7 +142,7 @@ If you use this work in your research, please cite:
 ```
 @article{oguntola2026graph,
   title={Graph-Based Deep Learning for Intelligent Detection of Energy Losses, Theft, and Operational Inefficiencies in Oil & Gas Production Networks},
-  author={AbdulQoyum A.Olowookere, Adewale U. Oguntola, and Ebenezer. Leke Odekanle},
+  author={AbdulQoyum A. Olowookere, Adewale U. Oguntola, and Ebenezer. Leke Odekanle},
   journal={arXiv preprint arXiv:2603.14406},
   year={2026}
 }
